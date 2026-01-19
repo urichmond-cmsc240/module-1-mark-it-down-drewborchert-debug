@@ -2,4 +2,8 @@
 # Drew Borchert
 **dborchert**
 **drewborchert-debug**
+*he/him*
+*Junior*
+*Leadership Studies*
+*Minors: Computer Science and Data Science* 
 
