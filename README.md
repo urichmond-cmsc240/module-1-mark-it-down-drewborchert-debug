@@ -6,4 +6,4 @@
 *Junior*
 *Leadership Studies*
 *Minors: Computer Science and Data Science* 
-! Picture Pictureofme.JPEG
+! [Picture] (Pictureofme.JPEG)
