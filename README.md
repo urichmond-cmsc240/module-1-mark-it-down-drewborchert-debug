@@ -1,9 +1,15 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BWN2-Kl_)
-# Drew Borchert
-**dborchert**
-**drewborchert-debug**
-*he/him*
-*Junior*
-*Leadership Studies*
-*Minors: Computer Science and Data Science* 
-![Picture](Pictureofme.JPEG)
+# Drew Borchert  
+**dborchert**  
+**drewborchert-debug**  
+*he/him*  
+*Junior*  
+*Leadership Studies*  
+*Minors: Computer Science and Data Science*   
+![Picture](Pictureofme.JPEG)  
+## Hobbies  
+- Volleyball
+- Playing Video Games
+- Hanging out with friends
+
+
