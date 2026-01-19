@@ -4,7 +4,7 @@
 **drewborchert-debug**  
 *he/him*  
 *Junior*  
-*Leadership Studies*  
+*Major: Leadership Studies*  
 *Minors: Computer Science and Data Science*   
 ![Picture](Pictureofme.JPEG)  
 ## Hobbies  
